@@ -234,10 +234,3 @@ AWS 배포
 Java · Spring Boot Backend Developer를 목표로
 직접 설계하고 구현하며 프로젝트를 발전시키고 있습니다.
 
-
-
-![Diary Write](./docs/images/diary-write.png)
-
-## 📖 Diary List
-
-![Diary List](./docs/images/diary-list.png)
