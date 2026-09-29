@@ -234,24 +234,7 @@ AWS 배포
 Java · Spring Boot Backend Developer를 목표로
 직접 설계하고 구현하며 프로젝트를 발전시키고 있습니다.
 
-<br>
 
-⭐ If you find this project interesting, feel free to explore the repository!
-를 확인할 수 있는 서비스로 발전시키는 것을 목표로 합니다.
-
-
-### 그리고 한 가지 추천! 💡
-
-지금 README에 **화면 캡처가 아직 없으니까**, 나중에 React 화면을 만들고 나면 이 부분을 추가하자.
-
-```markdown
-# 🖥️ Screenshots
-
-## 🏠 Home
-
-![Home](./docs/images/home.png)
-
-## ✍️ Diary Write
 
 ![Diary Write](./docs/images/diary-write.png)
 
